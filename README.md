@@ -115,12 +115,12 @@ Accuracy: 95%
 AUC: 0.96
 High precision and reliable predictions
 
-<img width="881" height="515" alt="image" src="https://github.com/user-attachments/assets/bf34a04c-9db1-490c-b056-5e5483088617" />
-<img width="889" height="594" alt="image" src="https://github.com/user-attachments/assets/53821ac3-45e5-4b2c-97a4-bc6c1e707fd5" />
-<img width="883" height="640" alt="image" src="https://github.com/user-attachments/assets/66906ed0-8610-493a-bf63-993400f4a60e" />
-<img width="783" height="419" alt="image" src="https://github.com/user-attachments/assets/796131c2-fa2b-4e51-b94a-6aebe5150c99" />
-<img width="906" height="676" alt="image" src="https://github.com/user-attachments/assets/97673dc9-900f-48c0-8513-04d62528062b" />
-<img width="644" height="418" alt="image" src="https://github.com/user-attachments/assets/1fd3286f-0842-4284-bf31-639138cf06b2" />
+<img width="481" height="315" alt="image" src="https://github.com/user-attachments/assets/bf34a04c-9db1-490c-b056-5e5483088617" />
+<img width="489" height="394" alt="image" src="https://github.com/user-attachments/assets/53821ac3-45e5-4b2c-97a4-bc6c1e707fd5" />
+<img width="483" height="440" alt="image" src="https://github.com/user-attachments/assets/66906ed0-8610-493a-bf63-993400f4a60e" />
+<img width="383" height="319" alt="image" src="https://github.com/user-attachments/assets/796131c2-fa2b-4e51-b94a-6aebe5150c99" />
+<img width="406" height="376" alt="image" src="https://github.com/user-attachments/assets/97673dc9-900f-48c0-8513-04d62528062b" />
+<img width="344" height="318" alt="image" src="https://github.com/user-attachments/assets/1fd3286f-0842-4284-bf31-639138cf06b2" />
 
 
 🔮 Future Scope
